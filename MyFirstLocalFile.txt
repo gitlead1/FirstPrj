@@ -1,0 +1,15 @@
+Added local file.
+<<<<<<< HEAD
+Updated the file.
+
+Updated again.
+
+Added yet another line.
+=======
+
+Updated while in the development branch
+Updated the file.
+
+
+updted the file again while in the develop branch
+>>>>>>> refs/heads/develop
